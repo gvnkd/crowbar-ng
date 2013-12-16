@@ -1,0 +1,108 @@
+[submodule "crowbar"]
+	path = barclamps/crowbar
+	url = git@github.com:crowbar/barclamp-crowbar.git
+	branch = release/roxy/master
+[submodule "database"]
+	path = barclamps/database
+	url = git@github.com:crowbar/barclamp-database.git
+	branch = release/roxy/master
+[submodule "neutron"]
+	path = barclamps/neutron
+	url = git@github.com:crowbar/barclamp-neutron.git
+	branch = release/roxy/master
+[submodule "glance"]
+	path = barclamps/glance
+	url = git@github.com:crowbar/barclamp-glance.git
+	branch = release/roxy/master
+[submodule "ceph"]
+	path = barclamps/ceph
+	url = git@github.com:crowbar/barclamp-ceph.git
+	branch = release/roxy/master
+[submodule "nova_dashboard"]
+	path = barclamps/nova_dashboard
+	url = git@github.com:crowbar/barclamp-nova_dashboard.git
+	branch = release/roxy/master
+[submodule "cinder"]
+	path = barclamps/cinder
+	url = git@github.com:crowbar/barclamp-cinder.git
+	branch = release/roxy/master
+[submodule "rabbitmq"]
+	path = barclamps/rabbitmq
+	url = git@github.com:crowbar/barclamp-rabbitmq.git
+	branch = release/roxy/master
+[submodule "ceilometer"]
+	path = barclamps/ceilometer
+	url = git@github.com:crowbar/barclamp-ceilometer.git
+	branch = release/roxy/master
+[submodule "nova"]
+	path = barclamps/nova
+	url = git@github.com:crowbar/barclamp-nova.git
+	branch = release/roxy/master
+[submodule "keystone"]
+	path = barclamps/keystone
+	url = git@github.com:crowbar/barclamp-keystone.git
+	branch = release/roxy/master
+[submodule "ipmi"]
+	path = barclamps/ipmi
+	url = git@github.com:crowbar/barclamp-ipmi.git
+	branch = release/roxy/master
+[submodule "heat"]
+	path = barclamps/heat
+	url = git@github.com:crowbar/barclamp-heat.git
+	branch = release/roxy/master
+[submodule "dell_bios"]
+	path = barclamps/dell_bios
+	url = git@github.com:crowbar/barclamp-dell_bios.git
+	branch = release/roxy/master
+[submodule "ntp"]
+	path = barclamps/ntp
+	url = git@github.com:crowbar/barclamp-ntp.git
+	branch = release/roxy/master
+[submodule "logging"]
+	path = barclamps/logging
+	url = git@github.com:crowbar/barclamp-logging.git
+	branch = release/roxy/master
+[submodule "dns"]
+	path = barclamps/dns
+	url = git@github.com:crowbar/barclamp-dns.git
+	branch = release/roxy/master
+[submodule "test"]
+	path = barclamps/test
+	url = git@github.com:crowbar/barclamp-test.git
+	branch = release/roxy/master
+[submodule "swift"]
+	path = barclamps/swift
+	url = git@github.com:crowbar/barclamp-swift.git
+	branch = release/roxy/master
+[submodule "nagios"]
+	path = barclamps/nagios
+	url = git@github.com:crowbar/barclamp-nagios.git
+	branch = release/roxy/master
+[submodule "git"]
+	path = barclamps/git
+	url = git@github.com:crowbar/barclamp-git.git
+	branch = release/roxy/master
+[submodule "ganglia"]
+	path = barclamps/ganglia
+	url = git@github.com:crowbar/barclamp-ganglia.git
+	branch = release/roxy/master
+[submodule "openstack"]
+	path = barclamps/openstack
+	url = git@github.com:crowbar/barclamp-openstack.git
+	branch = release/roxy/master
+[submodule "tempest"]
+	path = barclamps/tempest
+	url = git@github.com:crowbar/barclamp-tempest.git
+	branch = release/roxy/master
+[submodule "network"]
+	path = barclamps/network
+	url = git@github.com:crowbar/barclamp-network.git
+	branch = release/roxy/master
+[submodule "deployer"]
+	path = barclamps/deployer
+	url = git@github.com:crowbar/barclamp-deployer.git
+	branch = release/roxy/master
+[submodule "provisioner"]
+	path = barclamps/provisioner
+	url = git@github.com:crowbar/barclamp-provisioner.git
+	branch = release/roxy/master
